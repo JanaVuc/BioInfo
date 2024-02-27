@@ -1,8 +1,9 @@
+#!/bin/sh
 echo "This script can count the number of sequences in a fasta file"
 greeting=Hello
 name=Jana
 echo "$greeting $name"
-cd Desktop
+cd /home/jana/Desktop/
 mkdir /home/jana/Desktop/Bioinformatics
 mkdir /home/jana/Desktop/Bioinformatics/learning_bash
 cd Downloads
