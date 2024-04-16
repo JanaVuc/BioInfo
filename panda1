@@ -1,0 +1,10 @@
+1. sed '/[Zz][Oo][Oo]/d' /home/jana/Desktop/Assignment_3/pandas.txt > /home/jana/Desktop/Assignment_3/panda_zoos.txt
+2. awk '{print $1, $3, $2}' pandas.txt | grep "male" >> sorted_pandas.txt| awk '{print $1, $3, $2}' pandas.txt | grep "female" >> sorted_pandas.txt
+3. grep "Zoo" pandas.txt | awk '{print $3}' | sort > panda_zoos_A2Z.txt
+4. sed s/female/F/g; s/male/M/g pandas.txt > panda_m_f.txt
+5. grep -c "female" pandas.txt | grep "October" | wc -l
+6. grep -n "" pandas.txt > panda_names.txt
+7. sed -n -e '1p;6p;17p' filename.txt > lines_1_6_17.txt
+8. grep -i "x" file.txt > x_lines.txt
+9. awk -F"," '{if (!seen[$3]++) print $3}' pandas.txt | sort | uniq -u > unique_places.txt
+10. awk '$2 <= 10 {print $1, $2}' pandas.txt | sort -k 2n > young_pandas.txt
