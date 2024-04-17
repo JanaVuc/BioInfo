@@ -1,0 +1,10 @@
+1.) Species: Mus musculus
+2.) Gene: BRCA 1
+3.) Rank 1 target sequence and genomic location: TTAAGCGCGTGTCTCAAGGGGGG   chr11:101524821
+4.) Right primer: coo: chr11:101524871-101524893 seq: ACTCGTCCATGGCTCTAACAAT
+     Left primer: coo: chr11:101524700-101524722 seq: TTGGGGACTTCTAGGTTTTGAA
+5.) If you knock out this gene, what is your expected phenotype?
+
+If knocked out during early development it would be lethal, because BRCA1 translocate to DNA damage sites and coordinates both DNA damage repair and DNA damage signaling, it is essential for maintaining genomic stability and suppressing tumor formation if functioning normally. 
+
+The expected phenotype if Brca 1 if knocked down in later stages of life would possibly not cause lethality, its role of regulating the activity of progesterone, a major hormone of pregnancy would have an influence on pregnancy in mice and because of its association of mammary carcinogenesis it could potentially influence that as well. Like previously stated mice homozygous for this allele are embryonic lethal.
