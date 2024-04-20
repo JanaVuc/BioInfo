@@ -1,0 +1,91 @@
+Using Ensembl Ensembl Release 111 answer the following questions:
+
+1.) How many splice variants does the human BRCA2 gene have?
+15
+
+2.) How many exons are in the longest splice variant(s) of BRCA2?
+
+Exons: 28, Coding exons: 25
+
+3.) How many introns are in the longest splice variant(s) of BRCA2?
+27
+
+4.) What chromosome is this gene on? 13
+
+5.) What are the gene synonyms of BRCA2?
+BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11
+
+6.) How many orthologs of human BRCA2 are found in the African ostrich? 1
+
+
+7.) In the human hemoglobin transcript ENST00000330597.5 HBG1-201, what is the sequence of the second exon?
+	
+GCTCCTGGTTGTCTACCCATGGACCCAGAGGTTCTTTGACAGCTTTGGCAACCTGTCCTC
+TGCCTCTGCCATCATGGGCAACCCCAAAGTCAAGGCACATGGCAAGAAGGTGCTGACTTC
+CTTGGGAGATGCCACAAAGCACCTGGATGATCTCAAGGGCACCTTTGCCCAGCTGAGTGA
+ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG   
+
+
+8.) What is the length of the first intron of this hemoglobin transcript?
+	122
+
+9.) How many pseudogenes are in the narwal genome annotation (NGI_Narwhal_1, INSDC Assembly GCA_005190385.2)?
+
+723
+
+Using Genomicus web-code version 2021-08-15 and database version 109.01, answer the following questions:
+
+10.) What two genes flank BRCA2 in the human genome?
+ZAR1L (ENSG00000189167) and N4BP2L1 (ENSG00000139597) 
+
+
+11.) What genes flank the sonic hedgehog gene(s) in the betta fish?
+rnf32 (ENSBSLG00000001314) and rbm33a (ENSBSLG00000001275)
+
+
+12.) How many copies of shh are in the betta fish? 1
+
+
+13.) How many copies of shh are in Atlantic salmon? 2
+
+
+Using NCBI answer the following questions:
+
+14.) How many genome assemblies are available for Bos taurus on NCBI? 26
+
+
+15.) How many of the above assemblies are assembled into chromosomes? 11
+
+
+16.) How many chromosomes does Bos taurus have excluding sex chromosomes? 29
+
+
+17.) Which cow chromosome is the longest? 1
+
+
+18.) How many microRNAs are annotated on chromosome the assembly:  Bos taurus ARS-UCD2.0?
+1,033 
+
+
+19.) If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publication to read on PubMed?
+
+Isolation of cDNAs for LCE and HCE, two constituent proteases of the hatching enzyme of Oryzias latipes, and concurrent expression of their mRNAs during development.
+Yasumasu S, et al. Dev Biol, 1992 Oct. PMID 1397682
+Gene evolution and gene expression after whole genome duplication in fish: the PhyloFish database.
+Pasquier J, et al. BMC Genomics, 2016 May 18. PMID 27189481, Free PMC Article
+
+
+20.) What is the translated coding sequence of NM_001104822? 
+
+MDLLAKASVLLLLLLSLSNAQTDNMEEAENGSSKEEIDESELED
+                     VSSIIFRMNNNSMEELLEGDLVLPKTRNAMKCFGAPDSCRWPKSSNGIVKVPYVVSDN
+                     YESDEKETIRNAMKEFAEKTCIHFVPRNNERAYLSLEPRFGCKSMMGYVGDKQVVVLQ
+                     RFGCIKHAVIQHELLHALGFYHEHTRSDRDQHVKINWENIIKDFTHNFDKNDTDNLGT
+                     PYDYGSIMHYGRTAFGKDRKETITPIPNPKAAIGQTERMSDIDILRVNKLYKC
+OR: (Both are same just organized differently) 
+
+                       1 mdllakasvl lllllslsna qtdnmeeaen gsskeeides eledvssiif rmnnnsmeel
+       61 legdlvlpkt rnamkcfgap dscrwpkssn givkvpyvvs dnyesdeket irnamkefae
+      121 ktcihfvprn neraylslep rfgcksmmgy vgdkqvvvlq rfgcikhavi qhellhalgf
+      181 yhehtrsdrd qhvkinweni ikdfthnfdk ndtdnlgtpy dygsimhygr tafgkdrket
+      241 itpipnpkaa igqtermsdi dilrvnklyk c
