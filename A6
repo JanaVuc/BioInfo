@@ -5,10 +5,12 @@ Using Ensembl Ensembl Release 111 answer the following questions:
 
 2.) How many exons are in the longest splice variant(s) of BRCA2?
 
-Exons: 28, Coding exons: 25
+Exons: 28, Coding exons: 25 (BRCA2-202	12077bp transcript 3200aa protein) 
+Exons: 27, Coding exons: 26 (BRCA2-201 11954bp 3418aa; BRCA2-210 11880bp 3418aa; BRCA2-206 11854bp 3418aa)
 
 3.) How many introns are in the longest splice variant(s) of BRCA2?
-27
+Introns:27 (BRCA2-202	12077bp transcript 3200aa protein) 
+Introns:26 (BRCA2-201 11954bp 3418aa; BRCA2-210 11880bp 3418aa; BRCA2-206 11854bp 3418aa)
 
 4.) What chromosome is this gene on? 13
 
@@ -46,7 +48,7 @@ rnf32 (ENSBSLG00000001314) and rbm33a (ENSBSLG00000001275)
 12.) How many copies of shh are in the betta fish? 1
 
 
-13.) How many copies of shh are in Atlantic salmon? 2
+13.) How many copies of shh are in Atlantic salmon? 4
 
 
 Using NCBI answer the following questions:
@@ -64,7 +66,7 @@ Using NCBI answer the following questions:
 
 
 18.) How many microRNAs are annotated on chromosome the assembly:  Bos taurus ARS-UCD2.0?
-1,033 
+Entire genome: 1,033 Chromosome 1: 35 microRNAs
 
 
 19.) If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publication to read on PubMed?
